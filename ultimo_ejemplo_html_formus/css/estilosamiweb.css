@@ -1,0 +1,226 @@
+
+ 	
+ body{
+	background-color: yellow;
+}
+
+#principal{
+	background: #000;
+width:850px;
+color: #fff;
+border:1px solid #fff;
+margin:20px auto;
+}
+
+#cabecera{
+height:180px;
+
+background: #ccc;
+color: #000;
+border:1px solid #fff;
+margin:10px;
+}
+
+#menu{
+
+
+background:#A4A4A4;
+		border: 1px solid #000;
+		margin: 10px;
+		padding: 10px;
+
+}
+
+#menu a{
+
+	font-size: 16px;
+	background: #3ba7e1;
+	color: #fff;
+	margin: 10px 5px;
+	padding: 10px 10px;
+	text-decoration:none; 
+	box-shadow: 2px 5px #1d64a6;
+}
+
+
+#menu ul{
+	list-style-type: none;
+	text-align: right;
+	
+}
+
+#menu ul li{
+display:inline-block;
+}
+
+#menu a:hover{
+	box-shadow: 0 2px #000;
+	background: #ccc;
+	border-radius: 20px;
+
+}
+
+#menu a:active{
+	box-shadow:none;
+
+}
+ 
+#contenidoizq{
+width:200px;
+background: #ccc;
+color:#000;
+border:1px solid #fff;
+margin:10px;
+float:left;
+
+}
+
+/*#contenidoizq h3{
+
+color: 	blue;
+}*/
+
+
+#contenidoizq h4{
+
+color: 	black;
+text-align: center;
+font-size: 12px;
+}
+
+
+#contenidoizq form{
+
+color: blue;
+font-size: 12px;
+
+}
+
+
+#contenidoizq ul li{
+
+color: 	blue;
+font-size: 10px;
+}
+
+#contenidoizq dl dt{
+
+color: 	blue;
+font-size: 12px;
+}
+
+#contenidoizq dl dd{
+
+color: 	#000;
+font-size: 16px;
+}
+
+
+#contenidoizq ol li{
+
+color: 	green;
+font-size: 14px;
+}
+
+
+
+
+
+#colder{
+width:600px;
+background: #ccc;
+color: #000;
+border:1px solid #fff;
+margin:10px;
+float:left;
+}
+
+#colder h2{
+align-content: center;
+color: blue;
+
+}
+
+
+
+
+.clear{
+clear:both;
+}
+
+#pie{
+height:200px;
+border:1px solid #fff;
+margin: 10px;
+}
+
+#c1{
+
+/*height: 20px;*/
+width:250px;
+background: #ccc;
+color: #000;
+font-size: 12PX;
+border:1px solid #fff;
+margin: 10px;
+float: left;
+}
+
+#c2{
+
+/*height: 20px;*/
+width:250px;
+background: #ccc;
+color: #000;
+border:1px solid #fff;
+margin: 10px;
+float: left;
+}
+
+#c3{
+
+/*height: 20px;*/
+width:250px;
+background: #ccc;
+color: #000;
+border:1px solid #fff;
+margin: 10px;
+float: left;
+}
+
+.clear{
+clear:both;
+}
+
+#colinf{
+
+/*height: 20px;*/
+/*width:250px;*/
+background: #ccc;
+color: #000;
+font-size: 12PX;
+border:1px solid #fff;
+margin: 10px;
+/*float: left;*/
+}
+
+
+#menu2{
+		background:blue;
+		padding: 10px,10px;
+	}
+
+
+.mensajes{
+
+	color:red;
+	size: 7px;
+}
+
+
+
+
+
+
+
+
